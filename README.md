@@ -46,6 +46,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ktcrsw/ktcrsw/output/snake.svg" alt="Snake animation" />
 
 ###
