@@ -7,7 +7,7 @@ I'm Computer Science student from College Of Computing KhonKaen University.
 
 ## <Tech Stack/>
 
-**Web FrontEnd:** ReactJs, TailwindCSS, NextJs(Soon!)
+**Web FrontEnd:** ReactJs, TailwindCSS, NextJs
 
 **Web BackEnd:** NodeJs, ExpressJs, ElysiaJs(Soon!)
 
