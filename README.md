@@ -17,4 +17,3 @@ I'm Computer Science student from College Of Computing KhonKaen University.
 
 **DB:** Mysql, NoSql, Firebase, MongoDB(Soon!)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTCRSW)](https://github.com/anuraghazra/github-readme-stats)
