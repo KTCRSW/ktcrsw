@@ -17,4 +17,4 @@ I'm Computer Science student from College Of Computing KhonKaen University.
 
 **DB:** Mysql, NoSql, Firebase, MongoDB(Soon!)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KTCRSW)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktcrsw&" alt="ktcrsw" /></p>
