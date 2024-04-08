@@ -17,4 +17,3 @@ I'm Computer Science student from College Of Computing KhonKaen University.
 
 **DB:** Mysql, NoSql, Firebase, MongoDB(Soon!)
 
-<p><a href="https://ko-fi.com/ktcrsw"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ktcrsw" /></a></p><br><br>
